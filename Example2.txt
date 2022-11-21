@@ -1,0 +1,4 @@
+This is the file of Example 2 for Deleting the branch
+git branch -d <Branch-Name>
+
+Changes made for conflict
