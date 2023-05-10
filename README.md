@@ -1,4 +1,5 @@
 # Hi, I'm Shubham More 👋
+![Profile Views](https://komarev.com/ghpvc/?username=shubhmore1212&color=green)
 
 Welcome to my Git profile! I'm passionate about coding, building stuff, anything creative.
 
