@@ -5,7 +5,7 @@ Welcome to my Git profile! I'm passionate about coding, building stuff, anything
 
 ## About Me
 
-- 🌱 I’m currently learning NodeJS, worked on ReactJS Framework.
+- 🌱 I’m currently learning C# and DotNet Framework, worked on MERN Application.
 - 💬 Fascinated about the web application domain.
 - 📫 How to reach me: https://www.linkedin.com/in/shubham-more1/
 
